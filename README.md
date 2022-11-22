@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markxethx" alt="markxethx" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/the_blank_eth" target="blank"><img src="https://img.shields.io/twitter/follow/the_blank_eth?logo=twitter&style=for-the-badge" alt="the_blank_eth" /></a> </p>
+
 - 🔭 I’m currently working on [100 Js Projects](https://github.com/Markxethx/100-JavaScript-Project)
 
 - 🌱 I’m currently learning **Javascript, React, Php, MySQL**
