@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [100 Js Projects](https://github.com/Markxethx/100-JavaScript-Project)
 
-- 🌱 I’m currently learning **Javascript, React, Php, MySQL**
+- 🌱 I’m currently learning **Javascript, React, Php, MySQL, Git**
 
 - 👯 I’m looking to collaborate on [React Projects](https://github.com/Markxethx/React-Compilation)
 
