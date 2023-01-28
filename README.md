@@ -20,6 +20,7 @@
 - 📫 How to reach me **https://twitter.com/the_blank_eth**
 
 - ⚡ Fun fact **I love Solving problem before it kills me :)**
+-this day i have learnt that there are lots of things i don't actually know
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
