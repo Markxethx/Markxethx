@@ -18,7 +18,7 @@
 - 💬 Ask me about **Java Script Tailwind Css Html**
 
 - 📫 How to reach me **https://twitter.com/the_blank_eth**
-
+-wag ka iyaq-
 - ⚡ Fun fact **I love Solving problem before it kills me :)**
 -this day i have learnt that there are lots of things i don't actually know
 
