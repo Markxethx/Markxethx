@@ -18,7 +18,8 @@
 - 💬 Ask me about **Java Script Tailwind Css Html**
 
 - 📫 How to reach me **https://twitter.com/the_blank_eth**
-- ⚡ Fun fact **I love Solving problem before it kills me :)**
+- ⚡ Fun fact **I love Solving problem before it kills me :)
+Love exploring things and reading self help books**
 -this day i have learnt that there are lots of things i don't actually know
 
 ### Blogs posts
