@@ -1,5 +1,8 @@
+[![MAsterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 <h1 align="center">Hi 👋, I'm Mark John</h1>
 <h3 align="center">A passionate frontend developer from Philippines!</h3>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markxethx&label=Profile%20views&color=0e75b6&style=flat" alt="markxethx" /> </p>
 
@@ -9,7 +12,7 @@
 
 - 🔭 I’m currently working on [100 Js Projects](https://github.com/Markxethx/100-JavaScript-Project)
 
-- 🌱 I’m currently learning **Javascript, React, Php, MySQL, Git**
+- 🌱 I’m currently learning **Javascript, React, Php, MySQL**
 
 - 👯 I’m looking to collaborate on [React Projects](https://github.com/Markxethx/React-Compilation)
 
@@ -18,13 +21,8 @@
 - 💬 Ask me about **Java Script Tailwind Css Html**
 
 - 📫 How to reach me **https://twitter.com/the_blank_eth**
-- ⚡ Fun fact **I love Solving problem before it kills me :)
-Love exploring things and reading self help books**
--this day i have learnt that there are lots of things i don't actually know
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I love Solving problem before it kills me :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
